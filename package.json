@@ -1,0 +1,28 @@
+{
+  "name": "exist-loader",
+  "version": "1.0.0",
+  "description": "A Webpack loader for loading files, which can be non-existent.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleen42/exist-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "webpack-loader",
+    "webpackloader"
+  ],
+  "author": "aleen42 <aleen42@vip.qq.com> (https://github.com/aleen42)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aleen42/exist-loader/issues"
+  },
+  "homepage": "https://github.com/aleen42/exist-loader#readme",
+  "dependencies": {
+    "loader-utils": "^1.1.0"
+  }
+}
